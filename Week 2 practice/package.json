@@ -1,0 +1,8 @@
+{
+  "name": "NodejsMongoCRUDBasics",
+  "version": "1.0.0",
+  "description": "Mongodb university week 2 course practice",
+  "dependencies": {
+    "mongodb": "^2.0.33"
+  }
+}
